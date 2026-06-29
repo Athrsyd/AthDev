@@ -1,0 +1,319 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Warisan Nusantara | Lestarikan Budaya di Era Digital",
+            "berperan": "Frontend Developer",
+            "type": "frontend_web",
+            "description": "Warisan Nusantara | Lestarikan Budaya di Era Digital merupakan sebuah Website yang di buat dengan tujuan menarik perhatian dan perhatian anak muda Indonesia untuk melestarikan budaya.Web ini memiliki beberapa fitur menarik, seperti museum digital game memory match, dan suling digital",
+            "yangDikerjakan": [
+                "Membangun antarmuka pengguna yang responsif"
+            ],
+            "photo": "https://example.com/project-alpha.jpg",
+            "video": "https://example.com/project-alpha-video.mp4",
+            "stack": [
+                "html",
+                "css",
+                "js"
+            ],
+            "startDate": "2025-08",
+            "endDate": "2025-09",
+            "link": "https://wawasan-nusantara.vercel.app/",
+            "kolaborasi": [
+                {
+                    "nama": "Daffa Adhtiya Pratama",
+                    "peran": "Game Developer",
+                    "link": "https://www.linkedin.com/in/daffaadhtiyapratama"
+                },
+                {
+                    "nama": "Muhammad Aldi Aghata",
+                    "peran": "Ui/UX Designer",
+                    "link": "https://www.linkedin.com/in/muhammadaldiaghata"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Pocket Coffee Website",
+            "type": "frontend_web",
+            "description": "Website showcase product coffee.",
+            "yangDikerjakan": [
+                "Membangun antarmuka pengguna yang responsif",
+                "Membuat desain yang menarik dan sesuai dengan identitas merek",
+                "Mengoptimalkan performa website untuk pengalaman pengguna yang lebih baik"
+            ],
+            "photo": "https://example.com/project-alpha.jpg",
+            "video": "https://example.com/project-alpha-video.mp4",
+            "stack": [
+                "react",
+                "tailwindcss"
+            ],
+            "startDate": "2025-12",
+            "endDate": "2025-12",
+            "link": "https://pocket-coffe.vercel.app/",
+            "kolaborasi": null,
+            "berperan": null
+        },
+        {
+            "id": 3,
+            "name": "Kalkulator Multifungsi",
+            "type": "mobile_web",
+            "description": "Saya membuat sebuah aplikasi kalkulator berbasis website yang memiliki fitur unik, seperti menghitung fungsi kuadrat. Motif saya membuat kalkulator ini adalah karena kebetulan materi matematika yang saya dapat saat membuat projek ini ada lah mengenai fungsi kuadrat. Sehingga saya mencoba membuat kalkulator fungsi kuadrat.",
+            "yangDikerjakan": [
+                "Membuat logika perhitungan untuk fungsi kuadrat",
+                "Membangun antarmuka pengguna yang sederhana dan mudah digunakan",
+                "Mengoptimalkan performa aplikasi untuk pengalaman pengguna yang lebih baik"
+            ],
+            "photo": "https://example.com/project-alpha.jpg",
+            "video": "https://example.com/project-alpha-video.mp4",
+            "stack": [
+                "react",
+                "tailwindcss",
+                "chartjs"
+            ],
+            "startDate": "2026-01",
+            "endDate": "2026-01",
+            "link": "https://calculator-premium.vercel.app/",
+            "kolaborasi": null,
+            "berperan": null
+        },
+        {
+            "id": 4,
+            "name": "Dzikruhu | Modern Moslim Application",
+            "type": "mobile_web",
+            "description": "Dzikruhu adalah aplikasi Muslim berbasis web yang dirancang khusus untuk perangkat mobile. Aplikasi ini membantu pengguna dalam beribadah sehari-hari melalui fitur Al-Qur'an digital, jadwal sholat, doa harian, tasbih digital, dan berita islami dalam satu platform yang ringan dan modern.",
+            "yangDikerjakan": [
+                "Membangun antarmuka pengguna yang sederhana dan mudah digunakan",
+                "Mengintegrasikan API untuk fitur jadwal sholat dan Al-Qur'an digital",
+                "Mengoptimalkan performa aplikasi untuk pengalaman pengguna yang lebih baik"
+            ],
+            "photo": "https://example.com/project-alpha.jpg",
+            "video": "https://example.com/project-alpha-video.mp4",
+            "stack": [
+                "react",
+                "tailwindcss",
+                "axios"
+            ],
+            "startDate": "2026-02",
+            "endDate": "2026-03",
+            "link": "https://dzikruhu.vercel.app/",
+            "kolaborasi": null,
+            "berperan": null
+        },
+        {
+            "id": 5,
+            "name": "Renaissance | Innovative E-Learning Platform",
+            "type": "fullstack_web",
+            "description": "Renaissance adalah platform e-learning inovatif yang dirancang untuk memberikan pengalaman belajar yang menarik dan efektif. Platform ini menyediakan berbagai kursus interaktif, materi pembelajaran yang lengkap, dan alat bantu untuk memantau kemajuan siswa.",
+            "yangDikerjakan": [
+                "Membangun logika backend untuk manajemen data progres pembelajaran pengguna",
+                "Mengintegrasikan API untuk fitur monitoring progres belajar",
+                "Membantu pengerjaan ui/ux tampilan mobile dan tablet",
+                "Membuat tampilan yang responsif dan menarik untuk berbagai perangkat"
+            ],
+            "photo": "https://example.com/project-alpha.jpg",
+            "video": "https://example.com/project-alpha-video.mp4",
+            "stack": [
+                "react",
+                "laravel",
+                "tailwindcss",
+                "axios",
+                "figma"
+            ],
+            "startDate": "2026-03",
+            "endDate": "2026-04",
+            "link": null,
+            "kolaborasi": [
+                {
+                    "nama": "Lutfi Idham Puro",
+                    "peran": "Frontend Developer",
+                    "link": "https://www.linkedin.com/in/lutfiidhampuro"
+                },
+                {
+                    "nama": "Nixon Valentino Cahyana",
+                    "peran": "Frontend Developer",
+                    "link": "https://www.linkedin.com/in/nixonvalentino"
+                },
+                {
+                    "nama": "Khuzaefah Hauna",
+                    "peran": "Ui/UX Designer",
+                    "link": "https://www.linkedin.com/in/khuzaefahhauna"
+                }
+            ],
+            "berperan": "Backend Developer + UI/UX Designer"
+        },
+        {
+            "id": 6,
+            "name": "EDUCO | LMS Platform for Modern Green Learning",
+            "type": "frontend_web",
+            "description": "EDUCO adalah platform LMS modern yang dirancang untuk memberikan pengalaman belajar yang menarik dan efektif. Platform ini menyediakan berbagai kursus interaktif, materi pembelajaran yang lengkap, dan alat bantu untuk memantau kemajuan siswa.",
+            "yangDikerjakan": [
+                "Membangun antarmuka pengguna yang responsif",
+                "Membuat design yang menarik dan sesuai dengan identitas website",
+                "Membuat ui/ux design yang menarik dan nyaman untuk digunakan",
+                "Membuat tampilan yang responsif dan menarik untuk berbagai perangkat"
+            ],
+            "photo": "https://example.com/project-alpha.jpg",
+            "video": "https://example.com/project-alpha-video.mp4",
+            "stack": [
+                "react",
+                "tailwindcss",
+                "figma",
+                "chartjs"
+            ],
+            "startDate": "2026-03",
+            "endDate": "2026-04",
+            "link": null,
+            "kolaborasi": [
+                {
+                    "nama": "Daffa Adhtiya Pratama",
+                    "peran": "Frontend Developer",
+                    "link": "https://www.linkedin.com/in/daffaadhtiyapratama"
+                },
+                {
+                    "nama": "Erlangga",
+                    "peran": "Frontend Developer",
+                    "link": "https://www.linkedin.com/in/nixonvalentino"
+                }
+            ],
+            "berperan": "Frontend Developer + UI/UX Designer"
+        },
+        {
+            "id": 7,
+            "name": "CareerSync | LMS Platform for Modern Green Learning",
+            "type": "fullstack_web",
+            "description": "CareerSync Merupakan aplikasi berbasis website. Platfrom yang di rancang membantu kesiapan pengguna dalam menghadapi dunia industri, serta membuktikan kemampuan praktis pengguna melalui pendekatan-pendekatan berbasis praktik. CareerSync terintegrasi dengan Artificial Intelligence (AI) untuk menganalisa kesiapan pengguna. CareerSync juga memberikan rekomendasi projek yang dapat di kerjakan pengguna berdasarkan skill yang di kuasai  yang relevan dengan kebutuhan industri. CareerSync juga menyediakan fitur portfolio builder  yang dapat di gunakan pengguna untuk membangun personal branding.",
+            "yangDikerjakan": [
+                "Membangun Rest API untuk manajemen data pengguna, rekomendasi projek, dan potfolio",
+                "Mengintegrasikan AI untuk menganalisa kesiapan pengguna, memberikan rekomendasi projek dan portofolio builder",
+                "Membantu pengerjaan frontend untuk fitur rekomendasi projek dan portfolio builder"
+            ],
+            "photo": "https://example.com/project-alpha.jpg",
+            "video": "https://example.com/project-alpha-video.mp4",
+            "stack": [
+                "react",
+                "laravel",
+                "tailwindcss",
+                "axios",
+                "figma",
+                "chartjs"
+            ],
+            "startDate": "2026-04",
+            "endDate": "2026-05",
+            "link": null,
+            "kolaborasi": [
+                {
+                    "nama": "Lutfi Idham Puro",
+                    "peran": "Frontend Developer",
+                    "link": "https://www.linkedin.com/in/lutfiidhampuro"
+                },
+                {
+                    "nama": "Khuzaefah Hauna",
+                    "peran": "Ui/UX Designer",
+                    "link": "https://www.linkedin.com/in/khuzaefahhauna"
+                }
+            ],
+            "berperan": "Backend Developer"
+        },
+        {
+            "id": 8,
+            "name": "Game Trafic Light Simulator",
+            "type": "vibe_code",
+            "description": "Game Trafic Light Simulator adalah sebuah permainan simulasi lampu lalu lintas yang dirancang untuk memberikan pengalaman belajar yang menyenangkan tentang aturan lalu lintas. Dalam game ini, pemain akan mengendalikan lampu lalu lintas dan mengatur aliran kendaraan untuk memastikan keselamatan dan kelancaran lalu lintas. Game ini cocok untuk semua usia dan dapat dimainkan di berbagai platform desktop.",
+            "yangDikerjakan": [
+                "Membuat logika permainan untuk simulasi lampu lalu lintas ( vibe coding )"
+            ],
+            "photo": "https://example.com/project-h.jpg",
+            "video": "https://example.com/project-h-video.mp4",
+            "stack": [
+                "python"
+            ],
+            "startDate": "2025-12",
+            "endDate": "2025-12",
+            "link": null,
+            "kolaborasi": [
+                {
+                    "nama": "Raja Fatir Raissa",
+                    "peran": "Technical Writer",
+                    "link": "https://www.linkedin.com/in/raja-fatir-raissa"
+                }
+            ],
+            "berperan": "Game Developer ( Python OOP )"
+        },
+        {
+            "id": 9,
+            "name": "Amaly | Moslem Lifestyle App",
+            "type": "vibe_code",
+            "description": "Amaly | Moslem Lifestyle App adalah sebuah aplikasi yang dirancang untuk memberikan pengalaman hidup yang lebih baik bagi pengguna Muslim. Aplikasi ini menyediakan berbagai fitur seperti jadwal sholat, quran terjemahan, dan tracker sedekah. Aplikasi ini cocok untuk semua usia dan dapat digunakan di berbagai platform desktop.",
+            "yangDikerjakan": [
+                "Mengoptimalkan performa aplikasi untuk pengalaman pengguna yang lebih baik",
+                "Mengintegrasikan API untuk fitur jadwal sholat, quran terjemahan"
+            ],
+            "photo": "https://example.com/project-h.jpg",
+            "video": "https://example.com/project-h-video.mp4",
+            "stack": [
+                "python",
+                "figma"
+            ],
+            "startDate": "2026-02",
+            "endDate": "2026-04",
+            "link": null,
+            "kolaborasi": [
+                {
+                    "nama": "Raja Fatir Raissa",
+                    "peran": "Technical Writer",
+                    "link": "https://www.linkedin.com/in/raja-fatir-raissa"
+                },
+                {
+                    "nama": "Afaf Hafizhah",
+                    "peran": "Technical Writer",
+                    "link": "https://www.linkedin.com/in/afaf-hafizhah"
+                },
+                {
+                    "nama": "Khuzaefah Hauna",
+                    "peran": "UI/UX Designer",
+                    "link": "https://www.linkedin.com/in/khuzaefah-hauna"
+                }
+            ],
+            "berperan": "Programmer ( Python OOP )"
+        },
+        {
+            "id": 10,
+            "name": "Chapterly | E-Books rentals platform",
+            "type": "fullstack_web",
+            "description": "Chapterly adalah platform penyewaan e-book yang dirancang untuk memberikan pengalaman membaca yang lebih mudah dan terjangkau bagi pengguna. Platform ini menyediakan berbagai koleksi e-book yang dapat disewa dengan harga yang kompetitif, serta fitur-fitur seperti rekomendasi buku, ulasan pengguna, dan sistem manajemen akun yang sederhana.",
+            "yangDikerjakan": [
+                "Membangun antarmuka pengguna yang responsif",
+                "Membangun logika backend untuk manajemen data pengguna, buku, dan transaksi",
+                "Mengoptimalkan performa aplikasi untuk pengalaman pengguna yang lebih baik",
+                "Mengintegrasikan API untuk fitur jadwal sholat, quran terjemahan"
+            ],
+            "photo": "https://example.com/project-h.jpg",
+            "video": "https://example.com/project-h-video.mp4",
+            "stack": [
+                "python",
+                "figma",
+                "flask",
+                "axios",
+                "tailwindcss",
+                "react"
+            ],
+            "startDate": "2026-06",
+            "endDate": "2026-06",
+            "link": null,
+            "kolaborasi": [
+                {
+                    "nama": "Afaf Hafizhah",
+                    "peran": "Technical Writer",
+                    "link": "https://www.linkedin.com/in/afaf-hafizhah"
+                },
+                {
+                    "nama": "Khuzaefah Hauna",
+                    "peran": "UI/UX Designer",
+                    "link": "https://www.linkedin.com/in/khuzaefah-hauna"
+                }
+            ],
+            "berperan": "Fullstack Web Developer ( Python OOP )"
+        }
+    ]
+}

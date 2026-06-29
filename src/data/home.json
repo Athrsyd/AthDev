@@ -1,0 +1,15 @@
+{
+    "title": "Selamat datang di portofolio saya",
+    "description": "Mari jelajahi karya-karya saya dan ayo berkolaborasi untuk menciptakan sesuatu yang luar biasa!",
+    "name": "Alif Athaullah Rasyad",
+    "skills": [
+        "Frontend Web Developer",2000,
+        "Backend Web Developer",2000,
+        "Fullstack Web Developer",2000,
+        "UI/UX Designer",2000
+    ],
+    "lanyard": "https://example.com/lanyard.png",
+    "photo": "https://example.com/profile.jpg",
+    "backPhoto": "https://example.com/profile.jpg"
+    
+}

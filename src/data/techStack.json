@@ -1,0 +1,158 @@
+[
+    {
+        "id": "react",
+        "name": "React",
+        "icon": "https://skillicons.dev/icons?i=react",
+        "ligthIcon": "https://skillicons.dev/icons?i=react&theme=light"
+    },
+    {
+        "id": "laravel",
+        "name": "Laravel",
+        "icon": "https://skillicons.dev/icons?i=laravel",
+        "ligthIcon": "https://skillicons.dev/icons?i=laravel&theme=light"
+    },
+    {
+        "id": "html",
+        "name": "HTML",
+        "icon": "https://skillicons.dev/icons?i=html",
+        "ligthIcon": "https://skillicons.dev/icons?i=html&theme=light"
+    },
+    {
+        "id": "css",
+        "name": "CSS",
+        "icon": "https://skillicons.dev/icons?i=css",
+        "ligthIcon": "https://skillicons.dev/icons?i=css&theme=light"
+    },
+    {
+        "id": "js",
+        "name": "JavaScript",
+        "icon": "https://skillicons.dev/icons?i=js",
+        "ligthIcon": "https://skillicons.dev/icons?i=js&theme=light"
+    },
+    {
+        "id": "php",
+        "name": "PHP",
+        "icon": "https://skillicons.dev/icons?i=php",
+        "ligthIcon": "https://skillicons.dev/icons?i=php&theme=light"
+    },
+    {
+        "id": "python",
+        "name": "Python",
+        "icon": "https://skillicons.dev/icons?i=py",
+        "ligthIcon": "https://skillicons.dev/icons?i=py&theme=light"
+    },
+    {
+        "id": "vite",
+        "name": "Vite",
+        "icon": "https://skillicons.dev/icons?i=vite",
+        "ligthIcon": "https://skillicons.dev/icons?i=vite&theme=light"
+    },
+    {
+        "id": "chart-js",
+        "name": "Chart.js",
+        "icon": "https://skillicons.dev/icons?i=d3",
+        "ligthIcon": "https://skillicons.dev/icons?i=d3&theme=light"
+    },
+    {
+        "id": "tailwind",
+        "name": "Tailwind CSS",
+        "icon": "https://skillicons.dev/icons?i=tailwind",
+        "ligthIcon": "https://skillicons.dev/icons?i=tailwind&theme=light"
+    },
+    {
+        "id": "bootstrap",
+        "name": "Bootstrap",
+        "icon": "https://skillicons.dev/icons?i=bootstrap",
+        "ligthIcon": "https://skillicons.dev/icons?i=bootstrap&theme=light"
+    },
+    {
+        "id": "node-js",
+        "name": "Node.js",
+        "icon": "https://skillicons.dev/icons?i=nodejs",
+        "ligthIcon": "https://skillicons.dev/icons?i=nodejs&theme=light"
+    },
+    {
+        "id": "mysql",
+        "name": "MySQL",
+        "icon": "https://skillicons.dev/icons?i=mysql",
+        "ligthIcon": "https://skillicons.dev/icons?i=mysql&theme=light"
+    },
+    {
+        "id": "supabase",
+        "name": "Supabase",
+        "icon": "https://skillicons.dev/icons?i=supabase",
+        "ligthIcon": "https://skillicons.dev/icons?i=supabase&theme=light"
+    },
+    {
+        "id": "mongodb",
+        "name": "MongoDB",
+        "icon": "https://skillicons.dev/icons?i=mongodb",
+        "ligthIcon": "https://skillicons.dev/icons?i=mongodb&theme=light"
+    },
+    {
+        "id": "vercel",
+        "name": "Vercel",
+        "icon": "https://skillicons.dev/icons?i=vercel",
+        "ligthIcon": "https://skillicons.dev/icons?i=vercel&theme=light"
+    },
+    {
+        "id": "netlify",
+        "name": "Netlify",
+        "icon": "https://skillicons.dev/icons?i=netlify",
+        "ligthIcon": "https://skillicons.dev/icons?i=netlify&theme=light"
+    },
+    {
+        "id": "github",
+        "name": "GitHub",
+        "icon": "https://skillicons.dev/icons?i=github",
+        "ligthIcon": "https://skillicons.dev/icons?i=github&theme=light"
+    },
+    {
+        "id": "git",
+        "name": "Git",
+        "icon": "https://skillicons.dev/icons?i=git",
+        "ligthIcon": "https://skillicons.dev/icons?i=git&theme=light"
+    },
+    {
+        "id": "npm",
+        "name": "NPM",
+        "icon": "https://skillicons.dev/icons?i=npm",
+        "ligthIcon": "https://skillicons.dev/icons?i=npm&theme=light"
+    },
+    {
+        "id": "eslint",
+        "name": "ESLint",
+        "icon": "https://skillicons.dev/icons?i=eslint",
+        "ligthIcon": "https://skillicons.dev/icons?i=eslint&theme=light"
+    },
+    {
+        "id": "figma",
+        "name": "Figma",
+        "icon": "https://skillicons.dev/icons?i=figma",
+        "ligthIcon": "https://skillicons.dev/icons?i=figma&theme=light"
+    },
+    {
+        "id": "canva",
+        "name": "Canva",
+        "icon": "https://skillicons.dev/icons?i=canva",
+        "ligthIcon": "https://skillicons.dev/icons?i=canva&theme=light"
+    },
+    {
+        "id": "flask",
+        "name": "Flask",
+        "icon": "https://skillicons.dev/icons?i=flask",
+        "ligthIcon": "https://skillicons.dev/icons?i=flask&theme=light"
+    },
+    {
+        "id": "vscode",
+        "name": "VS Code",
+        "icon": "https://skillicons.dev/icons?i=vscode",
+        "ligthIcon": "https://skillicons.dev/icons?i=vscode&theme=light"
+    },
+    {
+        "id": "postman",
+        "name": "Postman",
+        "icon": "https://skillicons.dev/icons?i=postman",
+        "ligthIcon": "https://skillicons.dev/icons?i=postman&theme=light"
+    }
+]
