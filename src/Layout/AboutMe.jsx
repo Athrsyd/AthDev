@@ -86,6 +86,7 @@ const AboutMe = () => {
 
     return (
         <div className="w-full  relative h-auto md:h-screen flex flex-col  bg-black text-white" id='about'>
+            
             <h1 className="relative z-20 text-center mt-5 top-0 text-8xl font-bold">About Me</h1>
 
 

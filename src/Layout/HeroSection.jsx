@@ -78,7 +78,7 @@ const HeroSection = () => {
                 />
             </div>
 
-            <div className="container relative z-100 h-screen flex justify-between items-center sm:flex-row flex-col-reverse px-4 mt-8 ">
+            <div className="container relative z-100 h-screen flex justify-between items-center sm:flex-row flex-col-reverse px-8 mt-8 ">
 
                 <div className="w-full sm:w-1/2 justify-between flex gap-8 flex-col text-center sm:text-left">
                     <div className="">

@@ -1,0 +1,45 @@
+{
+    "schools": [
+        {
+            "id": 1,
+            "schoolName": "SDN Grogol Utara 16",
+            "description": "Saya menempuh pendidikan dasar saya di SDN Grogol Utara 16.",
+            "schoolYear": "2016 - 2022",
+            "nilaiLulus": 91.8,
+            "pretasi": null
+        },
+        {
+            "id": 2,
+            "schoolName": "SMP N 16 Jakarta",
+            "description": "Saya menempuh pendidikan menengah pertama saya di SMP N 16 Jakarta. Selama bersekolah saya aktif dalam kegiatan Organisasi yang melatih kepemimpinan dan berkerja dalam organisasi.",
+            "schoolYear": "2022 - 2025",
+            "nilaiLulus": 92.53,
+            "pretasi": [
+                {
+                    "id": 1,
+                    "prestasiName": "Menjabat sebagai Ketua OSIS SMP N 16 Jakarta",
+                    "prestasiYear": "2023-2024"
+                },
+                {
+                    "id": 2,
+                    "prestasiName": "Peringkat 2 lulusan dengan nilai tertinggi",
+                    "prestasiYear": "2025"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "schoolName": "SMKN 26 Jakarta",
+            "description": "Saya sedang menempuh pendidikan menengah kejuruan saya di SMKN 26 Jakarta dengan Jurusan Sistem Informatika, Jaringan, dan Aplikasi ( SIJA ). Di sini saya mempelajari berbagai hal tentang dunia IT, mulai dari pemrograman, jaringan komputer, hingga pengembangan aplikasi. ",
+            "schoolYear": "2025 - 2029",
+            "nilaiLulus": null,
+            "pretasi": [
+                {
+                    "id": 1,
+                    "prestasiName": "Juara Kategori Terfavorit TECHTOPIA Web Design competition",
+                    "prestasiYear": "2025"
+                }
+            ]
+        }
+    ]
+}

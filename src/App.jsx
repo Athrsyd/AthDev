@@ -10,6 +10,7 @@ import AboutMe from './Layout/AboutMe'
 
 import { VscHome, VscArchive, VscAccount, VscSettingsGear } from "react-icons/vsc";
 import Education from './Layout/Education';
+import TechStack from './Layout/TechStack';
 const App = () => {
   const [scrolled, setScrolled] = useState(false)
 
@@ -37,6 +38,8 @@ const App = () => {
       <HeroSection />
       <AboutMe />
       <Education />
+      <div className='w-full h-20 bg-linear-to-b from-neutral-100  via-neutral-300 to-black'></div>
+      < TechStack />
 
 
       <div className="block sm:hidden ">
