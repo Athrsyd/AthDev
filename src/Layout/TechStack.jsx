@@ -1,17 +1,38 @@
 import React, { useEffect, useState } from 'react'
-import { motion } from 'framer-motion'
+import { easeInOut, motion } from 'framer-motion'
 import techStackData from '../data/techStack.json'
+import ShinyText from '../components/ShinyText/ShinyText'
 
+const Title = ({ text, className }) => {
+    return (
+        <ShinyText
+            text={text}
+            speed={5}
+            delay={0}
+            color="#353535"
+            shineColor="#808080"
+            spread={120}
+            direction="left"
+            yoyo={false}
+            pauseOnHover={false}
+            disabled={false}
+            className={className}
+        />)
+}
 const TechStack = () => {
     const [hoveredTech, setHoveredTech] = useState(null)
 
 
     return (
-        <div className='w-full px-8 flex justify-center flex-col py-4'>
+        <div className='w-full px-4 flex justify-center flex-col py-4 my-10 mt-5'>
 
-            <div className="title w-full flex justify-center items-center mt-4">
-                <h1 className="text-7xl font-bold text-gray-500/30">My Tech Stack</h1>
-            </div>
+            <motion.div
+                transition={{ duration: 1, delay: 0.5, ease:'easeInOut' }}
+                initial={{ opacity: 0, translateY: 20 }}
+                whileInView={{ opacity: 1, translateY: 0 }}
+                className="title w-full flex justify-center items-center mt-4">
+                <Title className="text-7xl font-bold text-gray-500/30" text={'My Tech Stack'} />
+            </motion.div>
             <div className="max-w-3xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-7 gap-4 gap-x-12 mt-16">
                 {techStackData.map((tech, index) => (
                     <div
